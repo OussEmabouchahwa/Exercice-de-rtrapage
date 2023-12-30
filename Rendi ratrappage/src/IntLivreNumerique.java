@@ -1,0 +1,4 @@
+
+interface IntLivreNumerique {
+      void Telecharge();
+}
